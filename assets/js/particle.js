@@ -88,6 +88,9 @@ particlesJS('particles-js', {
 				duration: 0.4
 			},
 			'grab' : {
+				line_linked: {
+					opacity: 1	
+					},
 				distance: 140
 			}
 		}
