@@ -22,11 +22,11 @@ body * {
 .cursor-dot {
   width: 10px;
   height: 10px;
-  background-color: #7b0afc;
+  background-color: #8500D1;
 }
 
 .cursor-dot-outline {
   width: 20px;
   height: 20px;
-  background-color: rgba(#AF5CDF, 0.959);
+  background-color: rgba(192, 116, 236, 0.959);
 }
