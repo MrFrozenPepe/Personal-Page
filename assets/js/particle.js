@@ -1,4 +1,4 @@
-u/* ---- particles.js config ---- */
+uu/* ---- particles.js config ---- */
 
 particlesJS('particles-js', {
 	particles: {
@@ -75,11 +75,11 @@ particlesJS('particles-js', {
 		events: {
 			onhover: {
 				enable: true,
-				mode: 'repulse'
+				mode: 'grab'
 			},
 			onclick: {
 				enable: true,
-				mode: 'grab'
+				mode: 'repulse'
 			}
 		},
 		modes: {
