@@ -1,4 +1,4 @@
-uu/* ---- particles.js config ---- */
+/* ---- particles.js config ---- */
 
 particlesJS('particles-js', {
 	particles: {
