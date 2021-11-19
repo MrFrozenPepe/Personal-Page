@@ -79,13 +79,15 @@ particlesJS('particles-js', {
 			},
 			onclick: {
 				enable: true,
-				mode: 'repulse'
+				mode: 'bubble'
 			}
 		},
 		modes: {
-			'repulse' : {
-				distance: 1000,
-				duration: 0.4
+			'bubble' : {
+				distance: 120,
+				duration: 0.1,
+				opacity: 1,
+				size: 30
 			},
 			'grab' : {
 				distance: 200,
