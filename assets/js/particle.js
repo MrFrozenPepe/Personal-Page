@@ -1,4 +1,4 @@
-/* ---- particles.js config ---- */
+u/* ---- particles.js config ---- */
 
 particlesJS('particles-js', {
 	particles: {
@@ -79,16 +79,16 @@ particlesJS('particles-js', {
 			},
 			onclick: {
 				enable: true,
-				mode: 'push'
+				mode: 'grab'
 			}
 		},
 		modes: {
 			'repulse' : {
-				distance: 140,
+				distance: 750,
 				duration: 0.4
 			},
-			'push' : {
-				particles_nb: 4
+			'grab' : {
+				distance: 140
 			}
 		}
 	},
