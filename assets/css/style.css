@@ -294,6 +294,7 @@ html[light-mode="dark"] {
 
 .dark-theme {
     background-color: #2b2a2A;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1), rgb(124 10 255));
     transition: background-color .3s;
     box-shadow: 0 0 0;
 }
