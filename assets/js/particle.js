@@ -90,7 +90,7 @@ particlesJS('particles-js', {
 			'grab' : {
 				line_linked: {
 					opacity: 1	
-					},
+				},
 				distance: 140
 			}
 		}
