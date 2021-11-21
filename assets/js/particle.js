@@ -84,7 +84,7 @@ particlesJS('particles-js', {
 		},
 		modes: {
 			'repulse' : {
-				distance: 120
+				distance: 300
 			},
 			'grab' : {
 				distance: 200,
